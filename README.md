@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tasyaagnesgoei
-- 👀 I’m interested in Flutter Mobile Application
+- 👀 I’m interested in Flutter Mobile Application Development
 - 🌱 I’m currently learning Computer Science at Institute Teknologi Harapan Bangsa
 - 💞️ I’m looking to collaborate on Mobile Development Project
 - 📫 How to reach me 
