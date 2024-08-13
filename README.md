@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tasyaagnesgoei
 - 👀 I’m interested in Flutter Mobile Application Development
-- 🌱 I’m currently learning Computer Science at Institute Teknologi Harapan Bangsa
+- 🌱 I’m currently learning Computer Engineering at Institute Teknologi Harapan Bangsa
 - 📫 How to reach me 
 email: tasyagoei12@gmail.com
 <!---
